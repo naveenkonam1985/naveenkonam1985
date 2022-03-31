@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @naveenkonam1985
-- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence and Web Design & Development
-- 🌱 I’m currently learning Machine Learning & Web Development
-- 💞️ I’m looking to collaborate on Machine Learning & Web Development
+- 👋 Hi, I’m Naveen Kumar Konam
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning & Deep Learning
+- 💞️ I’m looking to collaborate on Machine Learning & Deep Learning
 - 📫 How to reach me ...
 
 <!---
