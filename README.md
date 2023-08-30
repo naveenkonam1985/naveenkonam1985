@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen Kumar Konam , a Python developer
-- 👀 I’m interested in Data Engineering Activities
-- 🌱 I’m currently learning AWS and rust language
+- 👀 I’m interested in Working with Data
+- 🌱 I’m currently building projects with Python in Web scraping, Data Engineering etc
 - 💞️ I’m looking to collaborate on building platforms related to data engineering
 - 📫 How to reach me ...
 
