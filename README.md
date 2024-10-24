@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naveen Kumar Konam , a Python developer
 - 👀 I’m interested in Working with Data
-- 🌱 I’m currently building projects with Python in Data Analysis, Data Engineering etc
-- 💞️ I’m looking to collaborate on building platforms related to data engineering
+- 🌱 I’m currently building projects with Python in Data Analysis, Dashboards etc
+- 💞️ I’m looking to collaborate on building platforms related to data Analytics
 - 📫 How to reach me ...
 
 <!---
