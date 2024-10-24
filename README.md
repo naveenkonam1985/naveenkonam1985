@@ -2,7 +2,7 @@
 - 👀 I’m interested in Working with Data
 - 🌱 I’m currently building projects with Python in Data Analysis, Dashboards etc
 - 💞️ I’m looking to collaborate on building platforms related to data Analytics
-- 📫 How to reach me ...
+- 📫 Reach me at naveenkonam1985@gmail.com
 
 <!---
 naveenkonam1985/naveenkonam1985 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
