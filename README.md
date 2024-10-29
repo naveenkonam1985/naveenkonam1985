@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naveen Kumar Konam , a Python developer
+- 👋 Hi, I’m Naveen Kumar Konam , a Data Analyst and Stock Trader
 - 👀 I’m interested in Working with Data
 - 🌱 I’m currently building projects with Python in Data Analysis, Dashboards etc
 - 💞️ I’m looking to collaborate on building platforms related to data Analytics
