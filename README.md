@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen Kumar Konam , a Data Analyst and Stock Trader
 - 👀 I’m interested in Working with Data
-- 🌱 I’m currently building projects with Python in Data Analysis, Dashboards etc
+- 🌱 I’m currently building projects on Data Analysis and Dashboards with Python
 - 💞️ I’m looking to collaborate on building platforms related to data Analytics
 - 📫 Reach me at naveenkonam1985@gmail.com
 
